@@ -1,0 +1,21 @@
+.list{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.image{
+    width: 250px;
+    height: 300px;
+    border-radius: 20px;
+}
+.movie_card{
+    width: 250px;
+    height: 450px;
+    border: 4px solid black;
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 10px;
+}
+body{
+    background-color: brown;
+}
